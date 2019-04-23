@@ -1,10 +1,10 @@
 # Site settings
-title: BY Blog
+title: MY Blog
 SEOTitle: Kathy's Blog
 header-img: img/post-bg-desk.jpg
 email: kathyfu85@gmail.com
 description: "自强不息，厚德载物."
-keyword: "BY, BY Blog, 柏荧的博客, "
+keyword: " MY Blog, kathy的博客, "
 url: "http://kathyting.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/kathyting/kathyting.github.io.git" # you code repository
